@@ -14,7 +14,7 @@
   (println person-1 "and" person-2 "went out with" (count chaperones) "chaperones."))
 
 (date "Romeo" "Juliet" "Friar Lawrence" "Nurse")
-; "Romeo and Juliet went out with 2 chaperones."
+; Romeo and Juliet went out with 2 chaperones.
 ; => nil
 
 (defn indexable-word? [word]
@@ -62,7 +62,7 @@
 
 (small? 50)                                                 ; => "yes"
 (small? 50000)
-; "Saw a big number 50000"
+; Saw a big number 50000
 ; => "no"
 
 (loop [result []

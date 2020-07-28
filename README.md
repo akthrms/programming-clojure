@@ -8,7 +8,7 @@ Source Code for [Programming Clojure, Third Edition](https://pragprog.com/titles
 * Introduction
 * Getting Started
 * Exploring Clojure
-* Unifying Data with
+* Unifying Data with Sequences
 * Functional Programming
 * Specifications
 * State and Concurrency

@@ -1,5 +1,6 @@
 (ns examples.protocols
-  (:import [java.net Socket URL]
+  (:import [java.net Socket
+                     URL]
            [java.io BufferedReader
                     BufferedWriter
                     File

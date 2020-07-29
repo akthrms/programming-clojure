@@ -1,5 +1,9 @@
 (ns examples.cryptovault
-  (:require [examples.io :refer [gulp expectorate IOFactory make-reader make-writer]]
+  (:require [examples.io :refer [expectorate
+                                 gulp
+                                 IOFactory
+                                 make-reader
+                                 make-writer]]
             [clojure.java.io :as io])
   (:import [java.security KeyStore
                           KeyStore$PasswordProtection
